@@ -11,15 +11,4 @@ dist
 npm-debug.log
 yarn-error.log
 
-# Ignore development files
-.DS_Store
-.env
-.git
-.gitignore
-*.log
-*.md
-*.json
-*.lock
-*.bak
-*.swp
-*.swo
+
